@@ -7,6 +7,7 @@ h1{
  font-size: 4em;
  text-align: center;
  font-family: sans-serif;
+ vertical-align: middle;
 }
 
 p{
@@ -14,4 +15,5 @@ p{
  font-family: serif;
  color: green;
  text-align: center;
+ vertical-align: middle;
 }
